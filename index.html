@@ -19,7 +19,7 @@
   --olive-dark: rgb(81, 88, 65);
 }
 
-html { scroll-behavior: smooth; }
+html { scroll-behavior: smooth; overflow-x: hidden; }
 
 body {
   background: var(--bg);
@@ -315,7 +315,13 @@ body {
 /* ── MOBILE ───────────────────────────────────────────── */
 @media (max-width: 768px) {
   .site-header { padding: 20px 24px; }
-  .hero { padding: 110px 0 60px; }
+
+  .hero {
+    padding: 110px 0 60px;
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+  }
 
   .photo-item,
   .text-item {
@@ -323,10 +329,26 @@ body {
     transform: none !important;
   }
 
+  .photo-img-wrap {
+    max-width: calc(100vw - 40px) !important;
+    height: auto !important;
+  }
+
+  .photo-img-wrap img {
+    width: 100% !important;
+    height: auto !important;
+  }
+
   .text-item.style-large,
   .text-item.style-quote,
   .text-item.style-small {
     width: calc(100vw - 48px) !important;
+  }
+
+  #end-message {
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
   }
 }
 </style>
