@@ -1,0 +1,18 @@
+[
+  { "id": "001", "file": "41950007.JPG",   "caption": "morning light, 6am",         "date": "2024-03-15", "size": "wide"   },
+  { "id": "002", "file": "city-street-rain.jpg",        "caption": "after the rain",              "date": "2024-02-28", "size": "portrait"},
+  { "id": "003", "file": "cafe-table-corner.jpg",       "caption": "somewhere to sit",            "date": "2024-02-10", "size": "small"   },
+  { "id": "004", "file": "coastline-horizon.jpg",       "caption": "the water never stops",       "date": "2024-01-20", "size": "wide"    },
+  { "id": "005", "file": "market-flowers.jpg",          "caption": "tuesday flowers",             "date": "2023-12-08", "size": "portrait"},
+  { "id": "006", "file": "empty-road-dusk.jpg",         "caption": "going somewhere",             "date": "2023-11-30", "size": "wide"    },
+  { "id": "007", "file": "park-bench-autumn.jpg",       "caption": "october, late afternoon",     "date": "2023-10-22", "size": "small"   },
+  { "id": "008", "file": "rooftop-evening-sky.jpg",     "caption": "the sky doing its thing",     "date": "2023-09-14", "size": "wide"    },
+  { "id": "009", "file": "train-window-blur.jpg",       "caption": "in transit",                  "date": "2023-08-30", "size": "portrait"},
+  { "id": "010", "file": "corner-store-lights.jpg",     "caption": "open all night",              "date": "2023-08-05", "size": "small"   },
+  { "id": "011", "file": "friends-table-lunch.jpg",     "caption": "long lunches, no plans",      "date": "2023-07-18", "size": "large"   },
+  { "id": "012", "file": "shadow-on-wall.jpg",          "caption": "3pm shadow",                  "date": "2023-06-29", "size": "small"   },
+  { "id": "013", "file": "harbor-morning-fog.jpg",      "caption": "the harbor before everyone",  "date": "2023-05-11", "size": "wide"    },
+  { "id": "014", "file": "bookshelf-close.jpg",         "caption": "well-worn spines",            "date": "2023-04-03", "size": "portrait"},
+  { "id": "015", "file": "street-cat-doorstep.jpg",     "caption": "resident",                    "date": "2023-03-20", "size": "small"   },
+  { "id": "016", "file": "field-golden-hour.jpg",       "caption": "late summer, somewhere flat", "date": "2023-02-08", "size": "large"   }
+]
